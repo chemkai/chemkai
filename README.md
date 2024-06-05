@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Chemkai!](https://www.linkedin.com/in/chemkai-wangpan-aba9b9172/)
 - 🌱 Natural Language Processing, Computer Vision
+- Computer Vision
+- Natural Language Processing
 - 💞️ Drones, robots
 - 📫 How to reach me kaimohtaham8020@gmail.com
 
